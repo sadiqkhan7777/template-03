@@ -1,5 +1,7 @@
 First step clone this repo by using git clone https://github.com/sadiqkhan7777/template-03.git
-and then install the node_module by using npm install
+cd template-03 on therminal and then install the node_module by using npm install
+
+
 
 Second step to execute the data-migration.mjs file
 cd scripts 
