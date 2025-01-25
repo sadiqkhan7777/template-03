@@ -1,6 +1,7 @@
 First step clone this repo by using git clone https://github.com/sadiqkhan7777/template-03.git
 
-Second step: cd scripts 
+Second step to execute the data-migration.mjs file
+cd scripts 
 
 third step: node data-migration.mjs
 
